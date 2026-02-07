@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    source: google/docs
-    urls:
-      - https://docs.google.com/document/d/1_FIvpGJhHJDwekhnN08-mBen2lAfbpnmZsk0JIUXCLc/edit
+  /: https://drive.google.com/drive/folders/1XkQM8lQqbK9WsTYWm3Ha9xBo_1IeyCGJ
