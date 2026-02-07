@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    source: google/docs
+    urls:
+      - https://docs.google.com/document/d/1_FIvpGJhHJDwekhnN08-mBen2lAfbpnmZsk0JIUXCLc/edit
