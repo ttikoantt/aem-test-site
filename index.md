@@ -1,3 +1,8 @@
+---
+title: Welcome to AEM Test Site
+description: This is a test site deployed with AEM Edge Delivery Services
+---
+
 # Welcome to AEM Test Site
 
 This is a test site deployed with **AEM Edge Delivery Services**!
